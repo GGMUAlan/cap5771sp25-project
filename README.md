@@ -1,5 +1,4 @@
-This project is developed using jupyter notebook. 
-
+Please read first !!! 
 I uploaded a file in the format of main.ipynb to gradescope, but the file downloaded from gradescope is main.txt.
 
 If you already have a main.txt file, you can fix it like this:
