@@ -10,6 +10,10 @@ In addition, if you need to access the code of main.ipynb, you can also directly
 The streamlit application opens in a Python file.
 
 
+●4-minute video presenting your project (overview of your project including M1 and M2 results, maximum 4 slides. [1] overview of your data and objective [2] relevant EDA results [3] Model selection and evaluation [4] takeaways and future work. 
+The video link is as follows:
+https://www.youtube.com/watch?v=wkRKzHSBZkw
+
 ●4-minute demo: Showcase the functionality and features of the developed tool.
 The video link is as follows:
 https://www.youtube.com/watch?v=rIqpgvpQHxA
